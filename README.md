@@ -43,6 +43,6 @@ A drone built from scratch: a self-designed flight controller PCB, hand-written 
 ## 📫 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-lucastinter07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucastinter07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Tinter-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Tinter-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-tinter/)
 
 I'm open to **Summer 2028 internships** in power and energy, electronics and hardware, or controls and systems.
